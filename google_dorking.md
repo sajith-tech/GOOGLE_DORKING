@@ -169,5 +169,3 @@ Learn it, use it ethically, and teach others how to **defend** against it.
 
 
 
-Just let me know!
-```
